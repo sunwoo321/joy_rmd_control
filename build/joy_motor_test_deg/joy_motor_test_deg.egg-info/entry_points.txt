@@ -1,0 +1,3 @@
+[console_scripts]
+joy_rmd_increment_test = joy_motor_test_deg.joy_rmd_increment_test:main
+

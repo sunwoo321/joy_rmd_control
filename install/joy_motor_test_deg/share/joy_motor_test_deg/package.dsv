@@ -1,0 +1,9 @@
+source;share/joy_motor_test_deg/hook/pythonpath.ps1
+source;share/joy_motor_test_deg/hook/pythonpath.dsv
+source;share/joy_motor_test_deg/hook/pythonpath.sh
+source;share/joy_motor_test_deg/hook/ament_prefix_path.ps1
+source;share/joy_motor_test_deg/hook/ament_prefix_path.dsv
+source;share/joy_motor_test_deg/hook/ament_prefix_path.sh
+source;../../build/joy_motor_test_deg/share/joy_motor_test_deg/hook/pythonpath_develop.ps1
+source;../../build/joy_motor_test_deg/share/joy_motor_test_deg/hook/pythonpath_develop.dsv
+source;../../build/joy_motor_test_deg/share/joy_motor_test_deg/hook/pythonpath_develop.sh

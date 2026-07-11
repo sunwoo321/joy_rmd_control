@@ -1,0 +1,24 @@
+[30.192s] Invoking command in '/home/s/joy_deg_test_ws/build/joy_motor_test_deg': PYTHONPATH=/home/s/joy_deg_test_ws/build/joy_motor_test_deg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/s/joy_deg_test_ws/install/joy_motor_test_deg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/s/joy_deg_test_ws/build/joy_motor_test_deg/build --no-deps symlink_data
+[30.324s] running develop
+[30.408s] running egg_info
+[30.408s] creating joy_motor_test_deg.egg-info
+[30.408s] writing joy_motor_test_deg.egg-info/PKG-INFO
+[30.408s] writing dependency_links to joy_motor_test_deg.egg-info/dependency_links.txt
+[30.408s] writing entry points to joy_motor_test_deg.egg-info/entry_points.txt
+[30.408s] writing requirements to joy_motor_test_deg.egg-info/requires.txt
+[30.408s] writing top-level names to joy_motor_test_deg.egg-info/top_level.txt
+[30.408s] writing manifest file 'joy_motor_test_deg.egg-info/SOURCES.txt'
+[30.409s] reading manifest file 'joy_motor_test_deg.egg-info/SOURCES.txt'
+[30.410s] writing manifest file 'joy_motor_test_deg.egg-info/SOURCES.txt'
+[30.410s] running build_ext
+[30.411s] Creating /home/s/joy_deg_test_ws/install/joy_motor_test_deg/lib/python3.10/site-packages/joy-motor-test-deg.egg-link (link to .)
+[30.411s] Installing joy_rmd_increment_test script to /home/s/joy_deg_test_ws/install/joy_motor_test_deg/lib/joy_motor_test_deg
+[30.411s] 
+[30.411s] Installed /home/s/joy_deg_test_ws/build/joy_motor_test_deg
+[30.411s] running symlink_data
+[30.411s] creating /home/s/joy_deg_test_ws/install/joy_motor_test_deg/share/ament_index
+[30.411s] creating /home/s/joy_deg_test_ws/install/joy_motor_test_deg/share/ament_index/resource_index
+[30.411s] creating /home/s/joy_deg_test_ws/install/joy_motor_test_deg/share/ament_index/resource_index/packages
+[30.411s] symbolically linking /home/s/joy_deg_test_ws/build/joy_motor_test_deg/resource/joy_motor_test_deg -> /home/s/joy_deg_test_ws/install/joy_motor_test_deg/share/ament_index/resource_index/packages
+[30.411s] symbolically linking /home/s/joy_deg_test_ws/build/joy_motor_test_deg/package.xml -> /home/s/joy_deg_test_ws/install/joy_motor_test_deg/share/joy_motor_test_deg
+[30.425s] Invoked command in '/home/s/joy_deg_test_ws/build/joy_motor_test_deg' returned '0': PYTHONPATH=/home/s/joy_deg_test_ws/build/joy_motor_test_deg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/s/joy_deg_test_ws/install/joy_motor_test_deg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/s/joy_deg_test_ws/build/joy_motor_test_deg/build --no-deps symlink_data

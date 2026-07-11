@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating joy_motor_test_deg.egg-info
+writing joy_motor_test_deg.egg-info/PKG-INFO
+writing dependency_links to joy_motor_test_deg.egg-info/dependency_links.txt
+writing entry points to joy_motor_test_deg.egg-info/entry_points.txt
+writing requirements to joy_motor_test_deg.egg-info/requires.txt
+writing top-level names to joy_motor_test_deg.egg-info/top_level.txt
+writing manifest file 'joy_motor_test_deg.egg-info/SOURCES.txt'
+reading manifest file 'joy_motor_test_deg.egg-info/SOURCES.txt'
+writing manifest file 'joy_motor_test_deg.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/s/joy_deg_test_ws/install/joy_motor_test_deg/lib/python3.10/site-packages/joy-motor-test-deg.egg-link (link to .)
+Installing joy_rmd_increment_test script to /home/s/joy_deg_test_ws/install/joy_motor_test_deg/lib/joy_motor_test_deg
+
+Installed /home/s/joy_deg_test_ws/build/joy_motor_test_deg
+running symlink_data
+creating /home/s/joy_deg_test_ws/install/joy_motor_test_deg/share/ament_index
+creating /home/s/joy_deg_test_ws/install/joy_motor_test_deg/share/ament_index/resource_index
+creating /home/s/joy_deg_test_ws/install/joy_motor_test_deg/share/ament_index/resource_index/packages
+symbolically linking /home/s/joy_deg_test_ws/build/joy_motor_test_deg/resource/joy_motor_test_deg -> /home/s/joy_deg_test_ws/install/joy_motor_test_deg/share/ament_index/resource_index/packages
+symbolically linking /home/s/joy_deg_test_ws/build/joy_motor_test_deg/package.xml -> /home/s/joy_deg_test_ws/install/joy_motor_test_deg/share/joy_motor_test_deg

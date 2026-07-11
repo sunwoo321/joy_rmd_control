@@ -1,0 +1,17 @@
+[0.422s] Invoking command in '/home/s/joy_deg_test_ws/build/joy_motor_test_deg': PYTHONPATH=/home/s/joy_deg_test_ws/build/joy_motor_test_deg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/s/joy_deg_test_ws/install/joy_motor_test_deg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/s/joy_deg_test_ws/build/joy_motor_test_deg/build --no-deps symlink_data
+[0.544s] running develop
+[0.619s] running egg_info
+[0.619s] writing joy_motor_test_deg.egg-info/PKG-INFO
+[0.619s] writing dependency_links to joy_motor_test_deg.egg-info/dependency_links.txt
+[0.619s] writing entry points to joy_motor_test_deg.egg-info/entry_points.txt
+[0.619s] writing requirements to joy_motor_test_deg.egg-info/requires.txt
+[0.619s] writing top-level names to joy_motor_test_deg.egg-info/top_level.txt
+[0.620s] reading manifest file 'joy_motor_test_deg.egg-info/SOURCES.txt'
+[0.620s] writing manifest file 'joy_motor_test_deg.egg-info/SOURCES.txt'
+[0.621s] running build_ext
+[0.621s] Creating /home/s/joy_deg_test_ws/install/joy_motor_test_deg/lib/python3.10/site-packages/joy-motor-test-deg.egg-link (link to .)
+[0.621s] Installing joy_rmd_increment_test script to /home/s/joy_deg_test_ws/install/joy_motor_test_deg/lib/joy_motor_test_deg
+[0.621s] 
+[0.621s] Installed /home/s/joy_deg_test_ws/build/joy_motor_test_deg
+[0.621s] running symlink_data
+[0.633s] Invoked command in '/home/s/joy_deg_test_ws/build/joy_motor_test_deg' returned '0': PYTHONPATH=/home/s/joy_deg_test_ws/build/joy_motor_test_deg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/s/joy_deg_test_ws/install/joy_motor_test_deg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/s/joy_deg_test_ws/build/joy_motor_test_deg/build --no-deps symlink_data
